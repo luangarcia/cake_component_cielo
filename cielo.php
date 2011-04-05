@@ -6,7 +6,6 @@
  * @author      Luan Garcia <luan.garcia@gmail.com>
  * @version     1.0
  * @license     MIT
- *
  */
 
 class CieloComponent extends Object {
